@@ -21,9 +21,3 @@ deploy:
     access_key_id: $AWS_ACCESS_KEY
     secret_access_key:
         secure: "$AWS_SECRET_KEY"    
-
-        
-        
-
-
-    DockerReact-env.yyyh2i3fns.us-east-2.elasticbeanstalk.com
